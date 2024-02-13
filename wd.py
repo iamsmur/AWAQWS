@@ -1,0 +1,7 @@
+mylist = iter(["apple", "banana", "cherry"])
+x = next(mylist)
+print(x)
+y = next(mylist)
+print(y)
+x = next(mylist)
+print(x)
